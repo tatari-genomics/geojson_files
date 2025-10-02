@@ -1,0 +1,1050 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 54,
+                "WOOD_ID": 28538,
+                "HECTARE": 2.28,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS584594",
+                "EAST": 258400,
+                "NORTH": 659400,
+                "ANTIQUITY_": "3",
+                "ANTIQUITY": "Other (on Roy map)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 93,
+                "WOOD_ID": 29038,
+                "HECTARE": 7.87,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "NEW KILPATRICK",
+                "GRID_REF": "NS529720",
+                "EAST": 252900,
+                "NORTH": 672000,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 48,
+                "WOOD_ID": 28620,
+                "HECTARE": 1.08,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "PAISLEY",
+                "GRID_REF": "NS518607",
+                "EAST": 251800,
+                "NORTH": 660700,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 58,
+                "WOOD_ID": 28597,
+                "HECTARE": 6.99,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "GOVAN",
+                "GRID_REF": "NS557699",
+                "EAST": 255700,
+                "NORTH": 669900,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 61,
+                "WOOD_ID": 28598,
+                "HECTARE": 2.62,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "GOVAN",
+                "GRID_REF": "NS574690",
+                "EAST": 257400,
+                "NORTH": 669000,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 51,
+                "WOOD_ID": 28600,
+                "HECTARE": 1.65,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "GOVAN",
+                "GRID_REF": "NS536684",
+                "EAST": 253600,
+                "NORTH": 668400,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 16,
+                "WOOD_ID": 29630,
+                "HECTARE": 12.22,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CADDER",
+                "GRID_REF": "NS685677",
+                "EAST": 268500,
+                "NORTH": 667700,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 5,
+                "WOOD_ID": 29631,
+                "HECTARE": 2.23,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CADDER",
+                "GRID_REF": "NS672675",
+                "EAST": 267200,
+                "NORTH": 667500,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 10,
+                "WOOD_ID": 29632,
+                "HECTARE": 8.68,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CADDER",
+                "GRID_REF": "NS678673",
+                "EAST": 267800,
+                "NORTH": 667300,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 18,
+                "WOOD_ID": 29633,
+                "HECTARE": 1.39,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CADDER",
+                "GRID_REF": "NS697674",
+                "EAST": 269700,
+                "NORTH": 667400,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 15,
+                "WOOD_ID": 29634,
+                "HECTARE": 21.59,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CADDER",
+                "GRID_REF": "NS685670",
+                "EAST": 268500,
+                "NORTH": 667000,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 15,
+                "WOOD_ID": 29635,
+                "HECTARE": 1.23,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CADDER",
+                "GRID_REF": "NS685670",
+                "EAST": 268500,
+                "NORTH": 667000,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 15,
+                "WOOD_ID": 29636,
+                "HECTARE": 3.03,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CADDER",
+                "GRID_REF": "NS685670",
+                "EAST": 268500,
+                "NORTH": 667000,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 17,
+                "WOOD_ID": 29637,
+                "HECTARE": 3.94,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CADDER",
+                "GRID_REF": "NS696666",
+                "EAST": 269600,
+                "NORTH": 666600,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 19,
+                "WOOD_ID": 29639,
+                "HECTARE": 2.77,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CADDER",
+                "GRID_REF": "NS698662",
+                "EAST": 269800,
+                "NORTH": 666200,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 55,
+                "WOOD_ID": 28602,
+                "HECTARE": 2.94,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "EASTWOOD",
+                "GRID_REF": "NS549637",
+                "EAST": 254900,
+                "NORTH": 663700,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 54,
+                "WOOD_ID": 28612,
+                "HECTARE": 1.62,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "EASTWOOD",
+                "GRID_REF": "NS548622",
+                "EAST": 254800,
+                "NORTH": 662200,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 6,
+                "WOOD_ID": 29647,
+                "HECTARE": 1.96,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS673621",
+                "EAST": 267300,
+                "NORTH": 662100,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 56,
+                "WOOD_ID": 28614,
+                "HECTARE": 2.14,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "EASTWOOD",
+                "GRID_REF": "NS551617",
+                "EAST": 255100,
+                "NORTH": 661700,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 60,
+                "WOOD_ID": 28617,
+                "HECTARE": 3.11,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CATHCART",
+                "GRID_REF": "NS574615",
+                "EAST": 257400,
+                "NORTH": 661500,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 43,
+                "WOOD_ID": 28619,
+                "HECTARE": 3.61,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "PAISLEY",
+                "GRID_REF": "NS514611",
+                "EAST": 251400,
+                "NORTH": 661100,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 52,
+                "WOOD_ID": 28623,
+                "HECTARE": 2.91,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "GOVAN",
+                "GRID_REF": "NS540605",
+                "EAST": 254000,
+                "NORTH": 660500,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 4,
+                "WOOD_ID": 29501,
+                "HECTARE": 2.73,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CARMUNOCK",
+                "GRID_REF": "NS615598",
+                "EAST": 261500,
+                "NORTH": 659800,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 2,
+                "WOOD_ID": 29502,
+                "HECTARE": 25.22,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CARMUNOCK",
+                "GRID_REF": "NS608593",
+                "EAST": 260800,
+                "NORTH": 659300,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 55,
+                "WOOD_ID": 28539,
+                "HECTARE": 4.74,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS586588",
+                "EAST": 258600,
+                "NORTH": 658800,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 56,
+                "WOOD_ID": 28541,
+                "HECTARE": 3.48,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS593589",
+                "EAST": 259300,
+                "NORTH": 658900,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 3,
+                "WOOD_ID": 29516,
+                "HECTARE": 9.03,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CARMUNOCK",
+                "GRID_REF": "NS614584",
+                "EAST": 261400,
+                "NORTH": 658400,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 1,
+                "WOOD_ID": 29517,
+                "HECTARE": 9.64,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CARMUNOCK",
+                "GRID_REF": "NS605584",
+                "EAST": 260500,
+                "NORTH": 658400,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 3,
+                "WOOD_ID": 29520,
+                "HECTARE": 2.11,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CARMUNOCK",
+                "GRID_REF": "NS614584",
+                "EAST": 261400,
+                "NORTH": 658400,
+                "ANTIQUITY_": "2b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 4,
+                "WOOD_ID": 29651,
+                "HECTARE": 1.56,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS672617",
+                "EAST": 267200,
+                "NORTH": 661700,
+                "ANTIQUITY_": "1b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 93,
+                "WOOD_ID": 29037,
+                "HECTARE": 6.79,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "NEW KILPATRICK",
+                "GRID_REF": "NS528722",
+                "EAST": 252800,
+                "NORTH": 672200,
+                "ANTIQUITY_": "1b",
+                "ANTIQUITY": "Long-Established (of plantation origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 59,
+                "WOOD_ID": 28601,
+                "HECTARE": 3.87,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "GLASGOW",
+                "GRID_REF": "NS568665",
+                "EAST": 256800,
+                "NORTH": 666500,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 8,
+                "WOOD_ID": 29638,
+                "HECTARE": 2.16,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CADDER",
+                "GRID_REF": "NS676662",
+                "EAST": 267600,
+                "NORTH": 666200,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 57,
+                "WOOD_ID": 28608,
+                "HECTARE": 4.67,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "EASTWOOD",
+                "GRID_REF": "NS558626",
+                "EAST": 255800,
+                "NORTH": 662600,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 47,
+                "WOOD_ID": 28609,
+                "HECTARE": 3.23,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "PAISLEY",
+                "GRID_REF": "NS514627",
+                "EAST": 251400,
+                "NORTH": 662700,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 45,
+                "WOOD_ID": 28611,
+                "HECTARE": 7.96,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "PAISLEY",
+                "GRID_REF": "NS513623",
+                "EAST": 251300,
+                "NORTH": 662300,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 11,
+                "WOOD_ID": 29646,
+                "HECTARE": 2.03,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS679623",
+                "EAST": 267900,
+                "NORTH": 662300,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 44,
+                "WOOD_ID": 28613,
+                "HECTARE": 2.05,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "PAISLEY",
+                "GRID_REF": "NS512619",
+                "EAST": 251200,
+                "NORTH": 661900,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 46,
+                "WOOD_ID": 28616,
+                "HECTARE": 2.49,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "PAISLEY",
+                "GRID_REF": "NS514617",
+                "EAST": 251400,
+                "NORTH": 661700,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 53,
+                "WOOD_ID": 28621,
+                "HECTARE": 3.01,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "GOVAN",
+                "GRID_REF": "NS547608",
+                "EAST": 254700,
+                "NORTH": 660800,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 51,
+                "WOOD_ID": 28545,
+                "HECTARE": 4.37,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CARMUNOCK",
+                "GRID_REF": "NS523584",
+                "EAST": 252300,
+                "NORTH": 658400,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 53,
+                "WOOD_ID": 28548,
+                "HECTARE": 9.74,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS583571",
+                "EAST": 258300,
+                "NORTH": 657100,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 53,
+                "WOOD_ID": 28554,
+                "HECTARE": 10.34,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS583571",
+                "EAST": 258300,
+                "NORTH": 657100,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 53,
+                "WOOD_ID": 28552,
+                "HECTARE": 2.3,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS582580",
+                "EAST": 258200,
+                "NORTH": 658000,
+                "ANTIQUITY_": "2a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 49,
+                "WOOD_ID": 28603,
+                "HECTARE": 3.11,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "EASTWOOD",
+                "GRID_REF": "NS526634",
+                "EAST": 252600,
+                "NORTH": 663400,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 50,
+                "WOOD_ID": 28604,
+                "HECTARE": 8.7,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "EASTWOOD",
+                "GRID_REF": "NS529630",
+                "EAST": 252900,
+                "NORTH": 663000,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 14,
+                "WOOD_ID": 29642,
+                "HECTARE": 3.06,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS683630",
+                "EAST": 268300,
+                "NORTH": 663000,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 12,
+                "WOOD_ID": 29643,
+                "HECTARE": 1.66,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS680629",
+                "EAST": 268000,
+                "NORTH": 662900,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 13,
+                "WOOD_ID": 29644,
+                "HECTARE": 1.97,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS681627",
+                "EAST": 268100,
+                "NORTH": 662700,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 57,
+                "WOOD_ID": 28607,
+                "HECTARE": 20.47,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "EASTWOOD",
+                "GRID_REF": "NS555626",
+                "EAST": 255500,
+                "NORTH": 662600,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 2,
+                "WOOD_ID": 29648,
+                "HECTARE": 1.96,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS667621",
+                "EAST": 266700,
+                "NORTH": 662100,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 9,
+                "WOOD_ID": 29649,
+                "HECTARE": 2.53,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS678618",
+                "EAST": 267800,
+                "NORTH": 661800,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 56,
+                "WOOD_ID": 28615,
+                "HECTARE": 1.5,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "EASTWOOD",
+                "GRID_REF": "NS552617",
+                "EAST": 255200,
+                "NORTH": 661700,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 43,
+                "WOOD_ID": 28618,
+                "HECTARE": 7.96,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "PAISLEY",
+                "GRID_REF": "NS512614",
+                "EAST": 251200,
+                "NORTH": 661400,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 52,
+                "WOOD_ID": 28537,
+                "HECTARE": 5.75,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS582594",
+                "EAST": 258200,
+                "NORTH": 659400,
+                "ANTIQUITY_": "1a",
+                "ANTIQUITY": "Ancient (of semi-natural origin)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            }
+        }
+    ]
+}
