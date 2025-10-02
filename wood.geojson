@@ -1,0 +1,27 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "SITE_ID": 54,
+                "WOOD_ID": 28538,
+                "HECTARE": 2.28,
+                "DISTRICT": "GLASGOW",
+                "PARISH": "CAMBUSLANG",
+                "GRID_REF": "NS584594",
+                "EAST": 258400,
+                "NORTH": 659400,
+                "ANTIQUITY_": "3",
+                "ANTIQUITY": "Other (on Roy map)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.807058367745825,
+                    -4.261830933122684
+                ]
+            }
+        }
+    ]
+}
